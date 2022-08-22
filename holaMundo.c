@@ -3,5 +3,9 @@
 int main()
 {
 	printf("Hola Mundo");
-	return 0;
+	printf("Modificado");	
+	
+	int m;
+	scanf("%d",&m);
+return 0;
 }
